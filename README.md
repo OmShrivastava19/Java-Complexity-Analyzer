@@ -331,7 +331,7 @@ java-complexity-analyzer/
 ├── ComplexityAnalyzerGUI.class    # Compiled GUI version (after compilation)
 │
 └── docs/                          # Additional documentation (optional)
-    └── ProjectReport.pdf          # Detailed project report
+    └── Java Code Complexity Analyzer - Om Shrivastava.pdf          # Detailed project report
 ```
 
 ---
